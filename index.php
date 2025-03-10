@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Saheli Digital Studio</title>
+    <title>AKASH Digital Studio</title>
 
     <!-- font awesome cdn link  -->
     <script src="https://kit.fontawesome.com/39f2b34126.js" crossorigin="anonymous"></script>
@@ -18,7 +18,7 @@
 
 <header class="header">
 
-    <a href="#" class="logo"> <i class="fa-solid fa-camera"></i> Saheli Digital Studios</a>
+    <a href="#" class="logo"> <i class="fa-solid fa-camera"></i> AKASH Digital Studios</a>
 
     <nav class="navbar">
         <a href="#home">home</a>
